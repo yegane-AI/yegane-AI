@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yegane-AI. You can call me Ariana!
-- 👀 I’m interested in ML applications in Hardware.
+- 👀 I’m interested in Computer Architecture and Hardware Security.
 - 🌱 I’m currently learning Parallel programming, and logic locking methods.
-- 💞️ I’m looking to collaborate on hardware security.
+- 💞️ I’m looking to collaborate on hardware verification.
 - 📫 How to reach me: send an email to pardis.m74@gmail.com
 
 <!---
