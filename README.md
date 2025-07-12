@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yegane-AI. You can call me Yegi!
+- 👋 Hi, I’m @yegane-AI. You can call me Ariana!
 - 👀 I’m interested in ML applications in Hardware.
 - 🌱 I’m currently learning Parallel programming, and logic locking methods.
 - 💞️ I’m looking to collaborate on hardware security.
